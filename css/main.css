@@ -1,0 +1,26 @@
+body {
+    background: #FFFACD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    letter-spacing:normal;
+}
+
+.MyStyle1 {
+    background:  white;
+    color: silver;
+    
+}
+
+#MyStyle2{
+    font-style: oblique;
+    letter-spacing: 2px;
+    color: cadetblue;
+}
+
+p em{
+    color:darkgoldenrod;
+    font-size: small;
+}
+
+p.size{
+    font-size: large;
+}
